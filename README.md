@@ -148,4 +148,10 @@ MySQL • Linux • Windows
 ---
 
 ## ✨ Outside of Work  
-I enjoy reading **philosophy**, analyzing **classical texts**, and exploring how technology shapes society.
+Beyond engineering, I am an active **athlete**:
+
+- 🎾 **Tennis player**, training consistently and competing locally  
+- 🏋️ **Gym and strength training**, focused on performance and discipline  
+- 🧘 Developing **mental endurance and resilience**, which strongly influences my approach to problem-solving and research  
+
+Sports play a major role in shaping my mindset: **focus, consistency, perseverance, and pushing limits** — qualities I bring into my R&D and engineering work.
