@@ -40,9 +40,8 @@ My long-term goal is to pursue a **PhD in Computer Vision and Deep Learning**.
 ---
 
 ## 📫 How to Reach Me
-📧 **shakibyousef888@gmail.com**  
+📧 **shakib.youssef@ensta.fr**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ShakibYoussef  
-💻 **GitHub:** https://github.com/shakib-svg  
 📍 Based in **Brest, France**
 
 ---
