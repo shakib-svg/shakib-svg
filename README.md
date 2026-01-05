@@ -40,7 +40,7 @@ My long-term objective is to pursue a **PhD combining academic research excellen
 ---
 
 ## 📫 How to Reach Me
-📧 **shakib.youssef@ensta.fr**  
+📧 **shakib.youssef@outlook.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ShakibYoussef  
 📍 **Brest, France**
 
