@@ -3,14 +3,11 @@
 
 ---
 
-🎯 I am a **final-year engineering student at ENSTA (France)** specializing in  
-**Artificial Intelligence, Computer Vision, and Digital Systems**.
+🎯 I am a **final-year engineering student at ENSTA (France)** specializing in   **Artificial Intelligence, Computer Vision, and Digital Systems**.
 
-📌 I have secured a **6-month end-of-studies R&D internship at IFP Énergies nouvelles**, from  
-**March 2026 to September 2026**, working on **AI-driven and computer vision-related research topics**.
+📌 I have secured a **6-month end-of-studies R&D internship at IFP Énergies nouvelles**, from   **March 2026 to September 2026**, working on **AI-driven and computer vision-related research topics**.
 
-🎓 Following this internship, I am **actively seeking a CIFRE PhD position** in  
-**Artificial Intelligence and Computer Vision**, starting **after September 2026**.
+🎓 Following this internship, I am **actively seeking a CIFRE PhD position** in   **Artificial Intelligence and Computer Vision**, starting **after September 2026**.
 
 My long-term objective is to pursue a **PhD combining academic research excellence with industrial impact**, particularly in **vision-based intelligent systems and high-performance AI**.
 
