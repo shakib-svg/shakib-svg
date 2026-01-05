@@ -3,18 +3,21 @@
 
 ---
 
-🎯 I am a final-year engineering student at **ENSTA (France)** specializing in **Digital Systems, Artificial Intelligence, and Computer Vision**, actively seeking a **6-month end-of-studies internship starting March 2026**, ideally in:
+🎯 I am a **final-year engineering student at ENSTA (France)** specializing in  
+**Artificial Intelligence, Computer Vision, and Digital Systems**.
 
-- 👁️ **Computer Vision & Deep Learning**  
-- 🧠 **Imaging, 2D/3D Vision & Signal Processing**  
-- 🤖 **R&D for Vision Systems & High-Performance AI**
+📌 I have secured a **6-month end-of-studies R&D internship at IFP Énergies nouvelles**, from  
+**March 2026 to September 2026**, working on **AI-driven and computer vision-related research topics**.
 
-My long-term goal is to pursue a **PhD in Computer Vision and Deep Learning**.
+🎓 Following this internship, I am **actively seeking a CIFRE PhD position** in  
+**Artificial Intelligence and Computer Vision**, starting **after September 2026**.
+
+My long-term objective is to pursue a **PhD combining academic research excellence with industrial impact**, particularly in **vision-based intelligent systems and high-performance AI**.
 
 ---
 
 ## 🌱 Previously Worked On
-- 📸 **Depth cameras & AI for advanced pose estimation** at *Ivanae Medical / LATIM*  
+- 📸 **Depth cameras & AI for advanced pose estimation** — *Ivanae Medical / LATIM*
 - 🔎 Benchmarking of depth sensors and evaluation of 3D acquisition systems  
 - ⚙️ Optimization of pose-estimation models (OpenPose, ViTPose, BlazePose)  
 - 🧪 R&D in Computer Vision, geometric processing, and real-time inference pipelines  
@@ -22,81 +25,81 @@ My long-term goal is to pursue a **PhD in Computer Vision and Deep Learning**.
 ---
 
 ## 🤝 I’m Looking to Collaborate On
-- Computer Vision (object detection, multi-camera vision, tracking)  
+- Computer Vision (object detection, tracking, multi-camera systems)  
 - Deep Learning architectures (Transformers, segmentation, temporal models)  
-- 2D/3D imaging, geometric reasoning & spatial understanding  
+- 2D/3D vision, geometric reasoning & spatial understanding  
 - High-performance inference and model optimization  
 
 ---
 
 ## 💬 Ask Me About
 - Pose estimation & depth sensing  
-- YOLO-based object detection (v8/v10)  
+- YOLO-based object detection (v8 / v10)  
 - DeepSORT & multi-object tracking  
-- U-Net, Vision Transformers, segmentation models  
+- U-Net, Vision Transformers & segmentation models  
 - Real-time CV systems & optimization  
-- Time-series signal processing (EEG, ECG)
+- Time-series signal processing (EEG, ECG)  
 
 ---
 
 ## 📫 How to Reach Me
 📧 **shakib.youssef@ensta.fr**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ShakibYoussef  
-📍 Based in **Brest, France**
+📍 **Brest, France**
 
 ---
 
 # 🧪 Experience
 
-### **Depth Cameras & AI for Human Pose Estimation — Ivanae Medical / LATIM**  
-📅 *May 2025 – Sep. 2025*  
+### **Depth Cameras & AI for Human Pose Estimation — Ivanae Medical / LATIM**
+📅 *May 2025 – Sep. 2025*
 - Benchmarked and integrated depth cameras into a real-time monitoring system  
-- Optimized Computer Vision and pose-estimation models: **OpenPose, ViTPose, BlazePose**  
+- Optimized pose-estimation models: **OpenPose, ViTPose, BlazePose**  
 - Evaluated robustness, accuracy, latency, and environmental sensitivity  
-- Contributed to R&D combining **3D sensing, signal analysis and deep learning**  
-- Improved pipeline efficiency and precision for real-time pose reconstruction  
+- Contributed to R&D combining **3D sensing, signal analysis, and deep learning**  
+- Improved pipeline efficiency for real-time pose reconstruction  
 
 ---
 
-### **License Plate Detection System — RODOK SARL**  
-📅 *Dec. 2023 – Jun. 2024*  
-- Designed an image preprocessing pipeline for better plate localization  
-- Trained and deployed a **YOLOv8** model for detection and character recognition  
-- Improved detection robustness in challenging lighting and noise conditions  
+### **License Plate Detection System — RODOK SARL**
+📅 *Dec. 2023 – Jun. 2024*
+- Designed an image preprocessing pipeline for improved localization  
+- Trained and deployed a **YOLOv8**-based detection and recognition system  
+- Enhanced robustness under challenging lighting and noise conditions  
 
 ---
 
-### **AI-Based Signal Analysis — Together for Chehim**  
-📅 *May 2023 – Aug. 2023*  
-- Built classification algorithms for complex time-series patterns  
-- Extracted meaningful features from raw signals and optimized ML models  
-- Contributed to end-to-end deployment of prediction systems  
+### **AI-Based Signal Analysis — Together for Chehim**
+📅 *May 2023 – Aug. 2023*
+- Built classification algorithms for complex time-series data  
+- Extracted meaningful features and optimized ML models  
+- Contributed to end-to-end deployment of prediction pipelines  
 
 ---
 
 # 📚 Projects
 
-### **Brain Tumor Segmentation with Transformers (Personal Project)**  
-📅 *Dec. 2024 – Jul. 2025*  
+### **Brain Tumor Segmentation with Transformers (Personal Project)**
+📅 *Dec. 2024 – Jul. 2025*
 - Developed a **Transformer-based U-Net** for multimodal MRI segmentation  
-- Improved accuracy on subregions: WT, TC, ET  
-- Conducted extensive training, tuning, and evaluation workflows  
+- Improved accuracy on tumor subregions (WT, TC, ET)  
+- Conducted extensive training, tuning, and evaluation  
 
 ---
 
-### **Multi-Camera AI Surveillance System — ENSTA**  
-📅 *Sep. 2024 – May 2025*  
-- Built a multi-camera processing system for real-time object detection  
+### **Multi-Camera AI Surveillance System — ENSTA**
+📅 *Sep. 2024 – May 2025*
+- Built a real-time multi-camera object detection system  
 - Optimized a **YOLOv10 + DeepSORT** pipeline for robust tracking  
-- Implemented synchronization & fusion of multiple video streams  
+- Implemented synchronization and fusion of multiple video streams  
 
 ---
 
-### **EEG Signal Analysis for Brain–Computer Interfaces — UL**  
-📅 *Mar. 2024 – Jul. 2024*  
+### **EEG Signal Analysis for Brain–Computer Interfaces — UL**
+📅 *Mar. 2024 – Jul. 2024*
 - Processed EEG signals: filtering, noise reduction, feature extraction  
 - Evaluated ML models for BCI classification tasks  
-- Collaborated with research teams to optimize models on EEG datasets  
+- Collaborated with research teams on EEG datasets  
 
 ---
 
@@ -110,8 +113,8 @@ PyTorch • TensorFlow • OpenCV • MediaPipe
 NumPy • Pandas • Matplotlib  
 
 ### **DevOps & Tools**
-GitHub • Git • Google Colab  
-MySQL • Linux • Windows  
+Git • GitHub • Google Colab  
+Linux • Windows • MySQL  
 
 ### **Languages**
 🇫🇷 French — Fluent  
@@ -124,8 +127,6 @@ MySQL • Linux • Windows
 - Python, Pandas & Intro to Machine Learning — Kaggle  
 - Agile Project Management (Scrum)  
 - Foundations of Ethical Hacking — Semicolon Academy  
-- Tronc Commun GdP24  
-- Web Tools for Project Management  
 
 ---
 
@@ -135,7 +136,7 @@ MySQL • Linux • Windows
 
 ---
 
-# 🔗 Connect with Me
+## 🔗 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/ShakibYoussef" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40">
@@ -147,11 +148,10 @@ MySQL • Linux • Windows
 
 ---
 
-## ✨ Outside of Work  
+## ✨ Outside of Work
 Beyond engineering, I am an active **athlete**:
+- 🎾 Tennis player, training consistently and competing locally  
+- 🏋️ Gym & strength training, focused on discipline and performance  
+- 🧠 Developing mental resilience and endurance  
 
-- 🎾 **Tennis player**, training consistently and competing locally  
-- 🏋️ **Gym and strength training**, focused on performance and discipline  
-- 🧘 Developing **mental endurance and resilience**, which strongly influences my approach to problem-solving and research  
-
-Sports play a major role in shaping my mindset: **focus, consistency, perseverance, and pushing limits** — qualities I bring into my R&D and engineering work.
+These activities strongly influence my approach to **research, problem-solving, and long-term projects**.
