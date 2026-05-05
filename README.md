@@ -1,154 +1,118 @@
-<h1 align="center">Hi 👋, I'm Shakib YOUSSEF</h1>
-<h3 align="center">AI & Computer Vision Engineer • R&D • Final-Year Engineering Student at ENSTA</h3>
+<h1 align="center">Shakib Youssef</h1>
+<h3 align="center">AI & Computer Vision Engineer · Signal Processing · Deep Learning</h3>
 
----
-
-🎯 I am a **final-year engineering student at ENSTA (France)** specializing in   **Artificial Intelligence, Computer Vision, and Digital Systems**.
-
-📌 I have secured a **6-month end-of-studies R&D internship at IFP Énergies nouvelles**, from   **March 2026 to September 2026**, working on **AI-driven and computer vision-related research topics**.
-
-🎓 Following this internship, I am **actively seeking a CIFRE PhD position** in   **Artificial Intelligence and Computer Vision**, starting **after September 2026**.
-
-My long-term objective is to pursue a **PhD combining academic research excellence with industrial impact**, particularly in **vision-based intelligent systems and high-performance AI**.
-
----
-
-## 🌱 Previously Worked On
-- 📸 **Depth cameras & AI for advanced pose estimation** — *Ivanae Medical / LATIM*
-- 🔎 Benchmarking of depth sensors and evaluation of 3D acquisition systems  
-- ⚙️ Optimization of pose-estimation models (OpenPose, ViTPose, BlazePose)  
-- 🧪 R&D in Computer Vision, geometric processing, and real-time inference pipelines  
-
----
-
-## 🤝 I’m Looking to Collaborate On
-- Computer Vision (object detection, tracking, multi-camera systems)  
-- Deep Learning architectures (Transformers, segmentation, temporal models)  
-- 2D/3D vision, geometric reasoning & spatial understanding  
-- High-performance inference and model optimization  
-
----
-
-## 💬 Ask Me About
-- Pose estimation & depth sensing  
-- YOLO-based object detection (v8 / v10)  
-- DeepSORT & multi-object tracking  
-- U-Net, Vision Transformers & segmentation models  
-- Real-time CV systems & optimization  
-- Time-series signal processing (EEG, ECG)  
-
----
-
-## 📫 How to Reach Me
-📧 **shakib.youssef@outlook.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ShakibYoussef  
-📍 **Brest, France**
-
----
-
-# 🧪 Experience
-
-### **Depth Cameras & AI for Human Pose Estimation — Ivanae Medical / LATIM**
-📅 *May 2025 – Sep. 2025*
-- Benchmarked and integrated depth cameras into a real-time monitoring system  
-- Optimized pose-estimation models: **OpenPose, ViTPose, BlazePose**  
-- Evaluated robustness, accuracy, latency, and environmental sensitivity  
-- Contributed to R&D combining **3D sensing, signal analysis, and deep learning**  
-- Improved pipeline efficiency for real-time pose reconstruction  
-
----
-
-### **License Plate Detection System — RODOK SARL**
-📅 *Dec. 2023 – Jun. 2024*
-- Designed an image preprocessing pipeline for improved localization  
-- Trained and deployed a **YOLOv8**-based detection and recognition system  
-- Enhanced robustness under challenging lighting and noise conditions  
-
----
-
-### **AI-Based Signal Analysis — Together for Chehim**
-📅 *May 2023 – Aug. 2023*
-- Built classification algorithms for complex time-series data  
-- Extracted meaningful features and optimized ML models  
-- Contributed to end-to-end deployment of prediction pipelines  
-
----
-
-# 📚 Projects
-
-### **Brain Tumor Segmentation with Transformers (Personal Project)**
-📅 *Dec. 2024 – Jul. 2025*
-- Developed a **Transformer-based U-Net** for multimodal MRI segmentation  
-- Improved accuracy on tumor subregions (WT, TC, ET)  
-- Conducted extensive training, tuning, and evaluation  
-
----
-
-### **Multi-Camera AI Surveillance System — ENSTA**
-📅 *Sep. 2024 – May 2025*
-- Built a real-time multi-camera object detection system  
-- Optimized a **YOLOv10 + DeepSORT** pipeline for robust tracking  
-- Implemented synchronization and fusion of multiple video streams  
-
----
-
-### **EEG Signal Analysis for Brain–Computer Interfaces — UL**
-📅 *Mar. 2024 – Jul. 2024*
-- Processed EEG signals: filtering, noise reduction, feature extraction  
-- Evaluated ML models for BCI classification tasks  
-- Collaborated with research teams on EEG datasets  
-
----
-
-# 🛠️ Skills
-
-### **Programming**
-Python • C++ • Java • JavaScript • LaTeX  
-
-### **AI & Data**
-PyTorch • TensorFlow • OpenCV • MediaPipe  
-NumPy • Pandas • Matplotlib  
-
-### **DevOps & Tools**
-Git • GitHub • Google Colab  
-Linux • Windows • MySQL  
-
-### **Languages**
-🇫🇷 French — Fluent  
-🇬🇧 English — Fluent  
-
----
-
-# 🎓 Certificates
-- AI and the Future of Youth — Digital World AI  
-- Python, Pandas & Intro to Machine Learning — Kaggle  
-- Agile Project Management (Scrum)  
-- Foundations of Ethical Hacking — Semicolon Academy  
-
----
-
-# 📝 Publications
-1. **Evaluating EMD-Derived IMFs in Signal-Based Classification** — *ICABME 2025 (accepted)*  
-2. **A Data-Augmented Deep Hybrid Model for Classification Tasks** — *ETECOM 2025 (accepted)*  
-
----
-
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/ShakibYoussef" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40">
-  </a>
-  <a href="https://github.com/shakib-svg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40">
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ShakibYoussef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shakib.youssef@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/shakib-svg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-## ✨ Outside of Work
-Beyond engineering, I am an active **athlete**:
-- 🎾 Tennis player, training consistently and competing locally  
-- 🏋️ Gym & strength training, focused on discipline and performance  
-- 🧠 Developing mental resilience and endurance  
+### About
 
-These activities strongly influence my approach to **research, problem-solving, and long-term projects**.
+Final-year engineering student at **ENSTA – Institut Polytechnique de Paris** (Conception des Systèmes Numériques), currently completing a 6-month R&D internship at **IFP Énergies Nouvelles** in Lyon.
+
+My work sits at the intersection of **computer vision**, **signal processing**, and **deep learning** — building systems that detect, interpret, and explain patterns in complex data.
+
+I'm looking for **R&D engineering roles** in AI, computer vision, and intelligent signal analysis starting **October 2026**.
+
+---
+
+### 🔬 Current Work — IFPEN (Mar. 2026 – Sep. 2026)
+
+**Anomaly detection on industrial time series via computer vision**
+
+- Signal-to-image encoding pipelines (GADF, GASF, MTF) for multivariate sensor data
+- Convolutional autoencoders for unsupervised fault detection
+- Sensor-level fault localization using GradCAM & LRP explainability
+- Validated on Tennessee Eastman Process benchmark + real industrial pilot data
+
+`PyTorch` · `OpenCV` · `GradCAM` · `LRP` · `Autoencoder` · `GAF/MTF`
+
+---
+
+### 💼 Experience
+
+| Period | Role | Organization |
+|--------|------|-------------|
+| **Mar. 2026 – present** | R&D Intern — CV & Anomaly Detection | IFP Énergies Nouvelles, Lyon |
+| **May – Sep. 2025** | R&D Intern — Depth Cameras & Pose Estimation | Ivanae Medical / LaTIM, Brest |
+| **Dec. 2023 – Jun. 2024** | AI Engineer — License Plate Detection | RODOK SARL |
+| **May – Aug. 2023** | AI Engineer — Cardiac Signal Analysis | Together for Chehim |
+
+---
+
+### 🧪 Selected Projects
+
+**Explainability in Medical Imaging (ExpMedIa)** — *ENSTA, 2025–2026*
+> CheXNet & PYLON analysis with Grad-CAM, Grad-CAM++, LRP, Integrated Gradients
+
+**Brain Tumor Segmentation** — *Personal project, 2024–2025*
+> Transformer U-Net on multimodal MRI (WT, TC, ET subregions)
+
+**Multi-Camera Surveillance System** — *ENSTA, 2024–2025*
+> Real-time detection & tracking pipeline: YOLOv10 + DeepSORT
+
+**Brain–Computer Interface (BCI)** — *Université Libanaise, 2024*
+> EEG signal processing, noise reduction, ML classification
+
+---
+
+### 📄 Publications
+
+1. H. Serhal, R. Saab, T. Abdallah, **S. Youssef**, A. H. Chehade — *"Evaluating the Impact of EMD-Derived Intrinsic Mode Functions on Atrial Fibrillation Detection"* — **ICABME 2025** · [IEEE](https://doi.org/10.1109/ICABME66883.2025.11211811)
+
+2. H. Serhal, R. Saab, **S. Youssef**, T. Abdallah, A. H. Chehade, M. Abdallah — *"A Data-Augmented Deep Hybrid Model for Atrial Fibrillation Detection"* — **ETECOM 2025** · [IEEE](https://doi.org/10.1109/ETECOM66111.2025.11319010)
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python · C/C++ · Java · JavaScript · LaTeX</td>
+  </tr>
+  <tr>
+    <td><b>AI & Vision</b></td>
+    <td>PyTorch · TensorFlow · OpenCV · MediaPipe · YOLO · scikit-learn</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>NumPy · Pandas · Matplotlib · Seaborn</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git · Linux · Docker · VS Code · Google Colab</td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>French (B2) · English (TOEIC 940/990) · Arabic (native)</td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Education
+
+| Period | Degree | Institution |
+|--------|--------|-------------|
+| 2024 – 2026 | Engineering Diploma — Digital Systems Design | ENSTA – Institut Polytechnique de Paris |
+| 2021 – 2024 | B.Sc. — Networks & Telecommunications | Université Libanaise |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shakib-svg&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-svg&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to collaborations in computer vision, signal processing, and applied deep learning.</i><br/>
+  <b>📧 shakib.youssef@outlook.com</b>
+</p>
