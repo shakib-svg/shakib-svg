@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:f59e0b&height=220&section=header&text=Shakib%20Youssef&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Computer%20Vision%20Engineer%20%E2%80%A2%20Signal%20Processing%20%E2%80%A2%20Deep%20Learning&descSize=16&descAlignY=55&descColor=d4d4d4&animation=fadeIn" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ShakibYoussef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
