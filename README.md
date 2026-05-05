@@ -135,13 +135,10 @@ EEG signal processing, noise reduction & ML classification for BCI applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shakib-svg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shakib-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-svg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9" />
-</p>
+
 
 ---
 
