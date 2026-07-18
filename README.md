@@ -47,7 +47,7 @@
 
 ## About me
 
-I work at the intersection of **signal processing**, **deep learning**, and **computer vision**, with a focus on making models both accurate and explainable. My current research at IFPEN encodes multivariate industrial time series as images so that convolutional architectures — and their explainability tools — can detect and localize anomalies in complex physical systems. Before that, I applied the same signal-to-model philosophy to biomedical data: ECG-based atrial fibrillation detection (two IEEE publications), depth-camera pose estimation for medical robotics, and EEG-based brain–computer interfaces. What drives me is research that survives contact with real sensors, real noise, and real industrial constraints.
+I work at the intersection of **signal processing**, **deep learning**, and **computer vision**, with a focus on making models both accurate and explainable. My current research at IFPEN encodes multivariate industrial time series as images so that convolutional architectures, and their explainability tools, can detect and localize anomalies in complex physical systems. Before that, I applied the same signal-to-model philosophy to biomedical data: ECG-based atrial fibrillation detection (two IEEE publications), depth-camera pose estimation for medical robotics, and EEG-based brain–computer interfaces. What drives me is research that survives contact with real sensors, real noise, and real industrial constraints.
 
 ---
 
