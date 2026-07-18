@@ -10,7 +10,7 @@
 
 # Shakib Youssef
 
-**AI & Computer Vision R&D Engineer in training — turning industrial and biomedical signals into explainable visual intelligence**
+**AI & Computer Vision R&D Engineer : turning industrial and biomedical signals into explainable visual intelligence**
 
 <!-- Discreet rotating subtitle (remote service; the static subtitle above remains if it fails) -->
 <a href="https://github.com/shakib-svg">
