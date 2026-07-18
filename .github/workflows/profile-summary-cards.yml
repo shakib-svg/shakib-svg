@@ -1,0 +1,38 @@
+# Generates the summary cards into profile-summary-card-output/ and commits them,
+# so the README uses local SVGs instead of a rate-limited external API.
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # every day at 03:30 UTC
+  workflow_dispatch: # manual run from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # SUMMARY_GITHUB_TOKEN is a repository secret containing a Personal
+          # Access Token (see installation instructions). Its value must NEVER
+          # be written in this file.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          # Restrict generation to the theme used in the README, with a soft
+          # load animation. If your version of the action ignores these
+          # variables, it simply generates all themes with no animation —
+          # the github_dark folder referenced by the README exists either way.
+          THEME: "github_dark"
+          ANIMATION: "load"
+          DURATION: "2"
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 2 # Paris (CEST); use 1 in winter if you prefer exact CET
+          EXCLUDE: ""
+          AUTO_PUSH: true
